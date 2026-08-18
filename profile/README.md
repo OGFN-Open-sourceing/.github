@@ -9,7 +9,7 @@ Currently doing **season 1 v1.8.2**  + season 0 v1.7.2 for limited time on Relea
 
 # Offical Sources:
 
-| Name & Description | Lang | Link |
+| Name & Description | Lang | Link(s) |
 |-|-|-|
 | **Shop Loper**, A basic OGFN Shop rotator made in JS, Manual and Semi auto. | [![JS](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript) | *https://github.com/OGFN-Open-sourceing/Shop-Looper* |
-- More will be added soon as time goes on :)
+| **Loadout Creator**, Made for the LateGame Modification of Magma GS 24.20 | [![PhpandHack](https://skillicons.dev/icons?i=php)](https://www.php.net/) | *https://github.com/OGFN-Open-sourceing/LoadoutCreator*, Site: https://lc.catgirls.rip/ |

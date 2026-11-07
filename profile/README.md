@@ -14,3 +14,4 @@ Currently doing **season 1 v1.8.2**  + season 0 v1.7.2 for limited time on Relea
 | **Shop Looper**, A basic OGFN Shop rotator made in JS, Manual and Semi auto. | [![JS](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript) | *https://github.com/OGFN-Open-sourceing/Shop-Looper* |
 | **Loadout Creator**, Made for the LateGame Modification of Magma GS 24.20 | [![PhpandHack](https://skillicons.dev/icons?i=php)](https://www.php.net/) | *https://github.com/OGFN-Open-sourceing/LoadoutCreator*, Site: https://lc.catgirls.rip/ |
 | **Titanium**, A universal external Fortnite MatchMaker. | [![rust](https://skillicons.dev/icons?i=rust)](https://www.php.net/) | *Soon..* |
+| **Silicon Service**, API Manager and Admin pannel service for Vindertech V2 backend, written in Go and Astro. | ![GoAndAstro](https://skillicons.dev/icons?i=go,astro) | *https://github.com/OGFN-Open-sourceing/Silicon-Service* |
